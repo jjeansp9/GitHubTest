@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         val tv:TextView = findViewById(R.id.tv)
         tv.text = "nice to meet you"
+        
+        var a=0
     }
 }
